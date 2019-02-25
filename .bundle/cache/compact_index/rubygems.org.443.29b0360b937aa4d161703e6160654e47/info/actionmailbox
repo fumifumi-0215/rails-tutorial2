@@ -1,0 +1,3 @@
+---
+0.1.0 rails:>= 5.2.0|checksum:2bd536c65bb18f05e15bb42238a494155e0e3f53b544677f5b34ce02865068b4,ruby:>= 2.5.0
+6.0.0.beta1 actionpack:= 6.0.0.beta1,activejob:= 6.0.0.beta1,activerecord:= 6.0.0.beta1,activestorage:= 6.0.0.beta1,activesupport:= 6.0.0.beta1,mail:>= 2.7.1|checksum:24c68f87e152ed26ce313da7bb66eddd683c384713f96a3ad230b1dbd19cc82a,ruby:>= 2.5.0,rubygems:> 1.3.1
