@@ -34,3 +34,38 @@ git add -A
 git commit -m "Initialize repository"
 git config --global user.name "Fumiaki Okubo"
  git config --global user.email hcno1.0215@gmail.com
+git add -A
+git commit -m "Initialize repository"
+git log
+git status
+ ls app/controllers/
+cat ~/.ssh/id_rsa.pub
+cd
+cat ~/.ssh/id_rsa.pub
+cd ~/.ssh
+ls
+ssh-keygen
+cat ~/.ssh/id_rsa.pub
+git push git@github.com:fumifumi-0215/rails-tutorial2.git master
+git status
+git add -A
+git push
+git push git@github.com:fumifumi-0215/rails-tutorial2.git master
+git status
+git remote add origin git@github.com:fumifumi-0215/rails-tutorial2.git
+git remote -v
+git push -u origin --all
+git status
+cd
+cd enviroment
+cd environment
+git status
+git add -A
+git status
+git add ../.bash_history
+git status
+cd
+git add -A
+git status
+git add-A
+git add -A
