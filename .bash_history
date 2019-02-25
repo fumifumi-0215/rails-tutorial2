@@ -24,3 +24,9 @@ git log
 cd
 git log
 git init
+git add -A
+git status
+git commit -m "Initialize repository"
+rails s
+git status
+git commit -m "Initialize repository"
