@@ -30,3 +30,7 @@ git commit -m "Initialize repository"
 rails s
 git status
 git commit -m "Initialize repository"
+git add -A
+git commit -m "Initialize repository"
+git config --global user.name "Fumiaki Okubo"
+ git config --global user.email hcno1.0215@gmail.com
